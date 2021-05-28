@@ -1,7 +1,7 @@
 import requests
 from django.shortcuts import render
 from .models import City
-
+#Working with request
 # Create your views here.
 def index(request):
     url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=imperial&appid=320c29ded5b96768afcdfa84fd09c631'
