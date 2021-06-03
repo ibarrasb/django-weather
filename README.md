@@ -5,7 +5,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-🔍 Web app using OpenWeatherAPI to retrieve current weather from any city in the world. Stores any City you search up within the list, Mobile First responsive design.
+🔍 Web app using OpenWeatherAPI to retrieve current weather from any Location in the world. Stores the City you search up within the list, Mobile First responsive design.
 Click [Here](https://young-scrubland-99547.herokuapp.com) to launch App!
 ## Table of Contents
 - [Description](#description)
